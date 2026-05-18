@@ -1,0 +1,10 @@
+{
+  "risk_tolerance": "moderate_aggressive",
+  "investment_horizon_years": 30,
+  "max_single_stock_allocation": 15,
+  "preferred_sectors": [
+    "Technology",
+    "AI",
+    "Semiconductors"
+  ]
+}

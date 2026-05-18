@@ -1,1 +1,6 @@
-
+pandas
+numpy
+requests
+yfinance
+python-dotenv
+markdown
